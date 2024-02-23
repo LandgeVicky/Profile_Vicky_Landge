@@ -5,8 +5,6 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Profile_Vicky_Landge", "Profile_Vicky_Landge\Profile_Vicky_Landge.csproj", "{D9B9E1F7-917A-4D44-8A59-BD2713270455}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagement", "SchoolManagement\SchoolManagement.csproj", "{C4BC1A4A-C70D-4FEC-9B71-3E9C6DC08F6C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{D9B9E1F7-917A-4D44-8A59-BD2713270455}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9B9E1F7-917A-4D44-8A59-BD2713270455}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9B9E1F7-917A-4D44-8A59-BD2713270455}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C4BC1A4A-C70D-4FEC-9B71-3E9C6DC08F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C4BC1A4A-C70D-4FEC-9B71-3E9C6DC08F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C4BC1A4A-C70D-4FEC-9B71-3E9C6DC08F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C4BC1A4A-C70D-4FEC-9B71-3E9C6DC08F6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
